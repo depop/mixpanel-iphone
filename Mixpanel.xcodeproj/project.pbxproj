@@ -70,6 +70,7 @@
 		F101B1D81BC57605002AB64A /* UIColor+MPColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170CBF1A4A035F00D9E0F2 /* UIColor+MPColor.m */; };
 		F101B1DA1BC57605002AB64A /* UIImage+MPAverageColor.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170CC11A4A035F00D9E0F2 /* UIImage+MPAverageColor.m */; };
 		F101B1DC1BC57605002AB64A /* UIImage+MPImageEffects.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170CC31A4A035F00D9E0F2 /* UIImage+MPImageEffects.m */; };
+		F140AD1F1BCC1CEA00538210 /* Mixpanel.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170C4C1A4A035F00D9E0F2 /* Mixpanel.m */; settings = {ASSET_TAGS = (); }; };
 		F18E60E51B8603BB000CBAF5 /* libMixpanel.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F18E60DA1B8603BB000CBAF5 /* libMixpanel.a */; };
 /* End PBXBuildFile section */
 
@@ -553,6 +554,7 @@
 				F101B1A21BC57605002AB64A /* MPObjectIdentityProvider.m in Sources */,
 				F101B1A41BC57605002AB64A /* MPObjectSelector.m in Sources */,
 				F101B1A61BC57605002AB64A /* MPObjectSerializer.m in Sources */,
+				F140AD1F1BCC1CEA00538210 /* Mixpanel.m in Sources */,
 				F101B1A81BC57605002AB64A /* MPObjectSerializerConfig.m in Sources */,
 				F101B1AA1BC57605002AB64A /* MPObjectSerializerContext.m in Sources */,
 				F101B1AB1BC57605002AB64A /* MPPassThroughValueTransformer.m in Sources */,
