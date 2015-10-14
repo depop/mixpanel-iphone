@@ -50,7 +50,6 @@
 		F101B1B11BC57605002AB64A /* MPSurvey.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170C981A4A035F00D9E0F2 /* MPSurvey.m */; };
 		F101B1B41BC57605002AB64A /* MPSurveyNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170C9B1A4A035F00D9E0F2 /* MPSurveyNavigationController.m */; };
 		F101B1B61BC57605002AB64A /* MPSurveyQuestion.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170C9D1A4A035F00D9E0F2 /* MPSurveyQuestion.m */; };
-		F101B1B71BC57605002AB64A /* MPSurveyQuestionViewController.h in Sources */ = {isa = PBXBuildFile; fileRef = 7C170C9E1A4A035F00D9E0F2 /* MPSurveyQuestionViewController.h */; };
 		F101B1B81BC57605002AB64A /* MPSurveyQuestionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170C9F1A4A035F00D9E0F2 /* MPSurveyQuestionViewController.m */; };
 		F101B1BA1BC57605002AB64A /* MPSwizzler.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170CA11A4A035F00D9E0F2 /* MPSwizzler.m */; };
 		F101B1BC1BC57605002AB64A /* MPTweak.m in Sources */ = {isa = PBXBuildFile; fileRef = 7C170CA31A4A035F00D9E0F2 /* MPTweak.m */; };
@@ -563,7 +562,6 @@
 				F101B1B11BC57605002AB64A /* MPSurvey.m in Sources */,
 				F101B1B41BC57605002AB64A /* MPSurveyNavigationController.m in Sources */,
 				F101B1B61BC57605002AB64A /* MPSurveyQuestion.m in Sources */,
-				F101B1B71BC57605002AB64A /* MPSurveyQuestionViewController.h in Sources */,
 				F101B1B81BC57605002AB64A /* MPSurveyQuestionViewController.m in Sources */,
 				F101B1BA1BC57605002AB64A /* MPSwizzler.m in Sources */,
 				F101B1BC1BC57605002AB64A /* MPTweak.m in Sources */,
@@ -700,7 +698,7 @@
 		F18E60EC1B8603BB000CBAF5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_ENABLE_MODULES = NO;
+				CLANG_ENABLE_MODULES = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_PREPROCESSOR_DEFINITIONS = (
@@ -717,7 +715,7 @@
 		F18E60ED1B8603BB000CBAF5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				CLANG_ENABLE_MODULES = NO;
+				CLANG_ENABLE_MODULES = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
 				GCC_NO_COMMON_BLOCKS = YES;
