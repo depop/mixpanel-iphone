@@ -14,23 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7C170C291A4A02F500D9E0F2"
-               BuildableName = "Mixpanel.framework"
-               BlueprintName = "Mixpanel"
-               ReferencedContainer = "container:Mixpanel.xcodeproj">
-            </BuildableReference>
-         </BuildActionEntry>
-         <BuildActionEntry
-            buildForTesting = "YES"
-            buildForRunning = "YES"
-            buildForProfiling = "YES"
-            buildForArchiving = "YES"
-            buildForAnalyzing = "YES">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "F1093BC11BD94CD30047F1F4"
-               BuildableName = "libmixpanel.a"
-               BlueprintName = "mixpanel"
+               BlueprintIdentifier = "513B0B281C73CA35008EEE6E"
+               BuildableName = "MixpanelAppExtension.framework"
+               BlueprintName = "MixpanelAppExtension"
                ReferencedContainer = "container:Mixpanel.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -59,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7C170C291A4A02F500D9E0F2"
-            BuildableName = "Mixpanel.framework"
-            BlueprintName = "Mixpanel"
+            BlueprintIdentifier = "513B0B281C73CA35008EEE6E"
+            BuildableName = "MixpanelAppExtension.framework"
+            BlueprintName = "MixpanelAppExtension"
             ReferencedContainer = "container:Mixpanel.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -77,9 +63,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7C170C291A4A02F500D9E0F2"
-            BuildableName = "Mixpanel.framework"
-            BlueprintName = "Mixpanel"
+            BlueprintIdentifier = "513B0B281C73CA35008EEE6E"
+            BuildableName = "MixpanelAppExtension.framework"
+            BlueprintName = "MixpanelAppExtension"
             ReferencedContainer = "container:Mixpanel.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
@@ -88,7 +74,7 @@
       buildConfiguration = "Debug">
    </AnalyzeAction>
    <ArchiveAction
-      buildConfiguration = "Debug"
+      buildConfiguration = "Release"
       revealArchiveInOrganizer = "YES">
    </ArchiveAction>
 </Scheme>
